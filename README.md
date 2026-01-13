@@ -30,8 +30,4 @@ Passionate about building scalable systems, improving observability, and creatin
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-000000?style=for-the-badge&logo=java&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=julpalma&show_icons=true&theme=radical)
 
